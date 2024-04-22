@@ -1,9 +1,10 @@
-import './App.css';
+import "./styles.css";
+import Maps from './maps';
 
 function App() {
   return (
     <div><h1>
-      WELCOME TO MAPs
+      <Maps/>
     </h1>
     </div>
   );
